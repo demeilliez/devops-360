@@ -1,0 +1,9 @@
+libvirt_vms:
+  00.webserver:
+    cpu: 1
+    mem: 768
+    ip: "{{ libvirt_ip_prefix }}.50"
+  00.mysql:
+    cpu: 1
+    mem: 768
+    ip: "{{ libvirt_ip_prefix }}.70"
