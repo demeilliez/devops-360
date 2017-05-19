@@ -18,7 +18,7 @@ libvirt_dns_key: /etc/clefupdate.key
 libvirt_dns_zone: dom111.u13.org
 
 # Ip prefix used for newly created VMs
-libvirt_ip_prefix: '172.16.110'
+libvirt_ip_prefix: '172.16.111'
 
 libvirt_bridge: ccm
 
